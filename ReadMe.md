@@ -19,25 +19,27 @@ Raekwon The Chef
 
 **Step 01**
 
-Use this template for a [Sprial Requirements Chart](https://docs.google.com/document/d/1qFuQsuEwolJd2ZnLnjmLYhHHR0b1rztGheU7hnXRdxM/edit?usp=sharing). Save a copy to your personal accounts, and complete the assignment using the email above. When you complete the document, save a copy as pdf
+Use this template for a [Sprial Requirements Chart](src/main/java/com/codedifferently/labs/lab06/part_a/documents/SprialRequirementsDoc1.docx). When you complete the document, save a copy as pdf
 locally in the part_a/documents folder of this project, so it can be included in your git repo.
 
 **Step 02**
 
-Imagine what might happen to if a particular step were forgoten.
+Imagine what might happen to if a particular step were forgotten.
 
-Use this template again for a [Sprial Requirements Chart](https://docs.google.com/document/d/1qFuQsuEwolJd2ZnLnjmLYhHHR0b1rztGheU7hnXRdxM/edit?usp=sharing). Save a copy to your personal accounts, and complete the assignment using the email above. When you complete the part_a/documents, save a copy as pdf locally in the documents folder of this project, so it can be included in your git repo.
+Use this template again for a [Sprial Requirements Chart](src/main/java/com/codedifferently/labs/lab06/part_a/documents/SprialRequirementsDoc2.docx). When you complete the document, save a copy as pdf
+locally in the part_a/documents folder of this project, so it can be included in your git repo.
 
 
 **Step 03**
 
-The past weekend you built a calculator, create a sprial document for the calculator, adding new features:
+The past weekend you built a calculator, create a spiral document for the calculator, adding new features:
 
 * SIN
 * COS
 * SQUARE ROOT
 
-Use this template again for a [Sprial Requirements Chart](https://docs.google.com/document/d/1qFuQsuEwolJd2ZnLnjmLYhHHR0b1rztGheU7hnXRdxM/edit?usp=sharing). Save a copy to your personal accounts, and complete the assignment using the email above.When you complete the part_a/documents, save a copy as pdf locally in the documents folder of this project, so it can be included in your git repo.
+Use this template again for a [Sprial Requirements Chart](src/main/java/com/codedifferently/labs/lab06/part_a/documents/SprialRequirementsDoc3.docx). When you complete the document, save a copy as pdf
+locally in the part_a/documents folder of this project, so it can be included in your git repo.
 
 ## Part B
 
